@@ -1,0 +1,64 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Rhetoric"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ]
+  ],
+  "legacy_uid": "a3708b52-ce7a-fc7a-0d24-434c23d4aa96",
+  "instructors": {
+    "content": [
+      "ba053b02-568d-26cc-57b9-92896e17ea19"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "25e34379-4da6-a8cd-92dc-a525a1147375",
+    "website": "21w-747-rhetoric-spring-2005"
+  },
+  "course_title": "Rhetoric",
+  "course_description": "This course uses the study of rhetoric as an opportunity to offer instruction in critical thinking. Through extensive writing and speaking assignments, students will develop their abilities to analyze texts of all kinds and to generate original and incisive ideas of their own. Critical thinking and original analysis as expressed in writing and in speech are the paramount goals of this class. The course will thus divide its efforts between an examination of the subject matter and an examination of student writing and speaking, in order to encourage in both instances the principal aims of the course.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.747",
+  "course_image_thumbnail": {
+    "content": "418fd62a-eac9-9e7d-517c-19957cee88c6",
+    "website": "21w-747-rhetoric-spring-2005"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Written Assignments with Examples",
+    "Activity Assignments"
+  ],
+  "site_uid": "9ee887b2-e417-4f75-8270-a2be0a6d91e5",
+  "site_short_id": "21w.747-spring-2005",
+  "site_url_path": "courses/21w-747-rhetoric-spring-2005",
+  "title": "Course Metadata"
+}
