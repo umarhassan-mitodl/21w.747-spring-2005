@@ -1,5 +1,7 @@
 ---
 content_type: page
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Projects
@@ -29,7 +31,7 @@ Moderator: Prof. Aden Evens
 Affirmative Team: A1 - Joy Yuan, A2 - Jiji Gu  
 Negative Team: N1 - Linda Fang, N2 - Asiri Ediriwickrema
 
-Video: ({{% resource_link "88ced8f2-def4-4eec-8101-d6217cf45b76" "MP4 - 167 MB" %}})
+Video: ([MP4 - 167 MB](https://archive.org/download/MIT21W.747S05/ocw-c21w-747-rhetoric-220k.mp4))
 
 {{< tableopen >}}
 {{< theadopen >}}

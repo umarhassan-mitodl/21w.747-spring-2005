@@ -5,6 +5,8 @@ description: Instructions and guidelines for the third essay assignment, in whic
 file: /courses/21w-747-rhetoric-spring-2005/2cffc762532f723b55923c69bdb78f19_a3_rhetoric_tech.pdf
 file_size: 27226
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

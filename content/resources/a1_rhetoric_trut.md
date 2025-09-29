@@ -5,6 +5,8 @@ description: Guidelines and instructions for the first essay assignment. This as
 file: /courses/21w-747-rhetoric-spring-2005/354612ec96a99d6e956ca3c7871b0ca7_a1_rhetoric_trut.pdf
 file_size: 15850
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
