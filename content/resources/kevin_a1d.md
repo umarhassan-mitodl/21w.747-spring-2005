@@ -5,8 +5,6 @@ description: 'This example of student work from the course is a first draft for 
 file: /courses/21w-747-rhetoric-spring-2005/625cbbf9ecc1375d136325d6c8008a5f_kevin_a1d.pdf
 file_size: 33435
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

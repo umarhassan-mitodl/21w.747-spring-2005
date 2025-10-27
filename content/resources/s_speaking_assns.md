@@ -4,8 +4,6 @@ description: Guidelines and instructions for the three course speaking assignmen
 file: /courses/21w-747-rhetoric-spring-2005/927b2c161166b28df7d55fa493115e7c_s_speaking_assns.pdf
 file_size: 20248
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

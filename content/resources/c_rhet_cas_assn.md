@@ -4,8 +4,6 @@ description: Topics and instructions for a series of brief writing assignments.
 file: /courses/21w-747-rhetoric-spring-2005/e418dcc4307795ee1c57c7e693bd2024_c_rhet_cas_assn.pdf
 file_size: 12574
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

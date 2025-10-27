@@ -5,8 +5,6 @@ description: 'Instructions for in class debate of the following topics: Writing 
 file: /courses/21w-747-rhetoric-spring-2005/6a1e2c80119685e65520a9c9bc33c78f_d_debate_topics.pdf
 file_size: 15638
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

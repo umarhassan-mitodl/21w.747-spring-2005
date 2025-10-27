@@ -5,8 +5,6 @@ description: Instructions and guidelines for the second essay assignment, which 
 file: /courses/21w-747-rhetoric-spring-2005/3a82bd50fb3b0ca263c07abb1fbefe53_a2_rhetoric_anys.pdf
 file_size: 28605
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
