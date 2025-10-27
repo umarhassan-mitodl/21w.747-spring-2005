@@ -118,7 +118,7 @@ Oral presentations and speeches will receive a 0 if not given on time. Written w
 
 ## Writing Center
 
-You are encouraged to consult the Writing Center at any stage of your writing process. They will also be happy to help you with speaking assignments. This is an invaluable resource so take advantage of it. Note that the Writing Center tends to get crowded at certain times during the semester, so it is best to schedule an appointment at least five days in advance if possible. See [MIT's online Writing and Communication Center](http://web.mit.edu/writing/).
+You are encouraged to consult the Writing Center at any stage of your writing process. They will also be happy to help you with speaking assignments. This is an invaluable resource so take advantage of it. Note that the Writing Center tends to get crowded at certain times during the semester, so it is best to schedule an appointment at least five days in advance if possible. See {{% resource_link "ef4079c1-f831-4497-8189-f79e14ebe2ce" "MIT's online Writing and Communication Center" %}}.
 
 ## Plagiarism
 

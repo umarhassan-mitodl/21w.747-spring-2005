@@ -15,14 +15,14 @@ Herrick, James A. *The History and Theory of Rhetoric: An Introduction*. 3rd ed.
 
 This course also draws on classic texts and speeches, which include:
 
-[Plato's Phaedrus](http://www9.georgetown.edu/faculty/jod/texts/phaedrus.html)
+{{% resource_link "729f88db-0d03-419e-8795-34a6d5455087" "Plato's Phaedrus" %}}
 
-[Plato's Gorgias](http://www.ancienttexts.org/library/greek/plato/gorgias.html)
+{{% resource_link "f2ca5f6b-8230-4333-9868-5022d0446c25" "Plato's Gorgias" %}}
 
-[Aristotle's Rhetoric](http://plato.stanford.edu/entries/aristotle-rhetoric/)
+{{% resource_link "90df6835-b9e8-4136-91ea-9b86c792f4bb" "Aristotle's Rhetoric" %}}
 
-[Presidential Rhetoric](http://www.presidentialrhetoric.com/)
+{{% resource_link "b36dd3f0-448d-4bcf-96bf-cbe0d83d9bda" "Presidential Rhetoric" %}}
 
-[American Rhetoric Speech Bank](http://www.americanrhetoric.com/)
+{{% resource_link "6fb14389-4266-478c-98af-b05cf0f172ed" "American Rhetoric Speech Bank" %}}
 
 Martin Luther King Jr. Speeches
